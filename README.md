@@ -1,4 +1,3 @@
-# Padmashree-Shivaram
 👋 Hey there! I’m Shree
 
 🔹 Aspiring Data Engineer | ML Enthusiast | Lifelong Learner
