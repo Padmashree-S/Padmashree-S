@@ -6,7 +6,7 @@
 
 💾 Data Engineering concepts — ETL pipelines, data modeling, cloud platforms
 🧠 Machine Learning algorithms — regression, classification, clustering, and beyond
-🛠️ Tools like Python, SQL, Apache Spark, Airflow, and more
+🛠️ Tools like Python, SQL, Apache Spark, and more
 🚀 Current Projects: Azure end-to-end Data Engineering Project
 
 🏗️ Building data pipelines & automating workflows
