@@ -1,6 +1,6 @@
 👋 Hey there! I’m Shree
 
-🔹 Aspiring Data Engineer | ML Enthusiast | Lifelong Learner
+🔹 Data Engineer & Analyst | ML & AI Enthusiast | Lifelong Learner
 
 📌 What I’m Learning:
 
